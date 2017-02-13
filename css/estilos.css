@@ -1,0 +1,52 @@
+/**/
+
+.navbar
+{
+	margin-bottom: 0;
+}
+
+.jumbotron
+{
+	background: #428BCA;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.jumbotron h1 {
+  font-size: 43px;
+}
+
+
+h2>a 
+{
+	color: #333;
+}
+
+.arriba
+{
+	margin-top: 20px;
+}
+
+article
+{
+	border-bottom: 1px solid #999;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+footer
+{
+	background: #333;
+	padding-bottom: 30px;
+}
+
+footer h4,h6,a
+{
+	color: #fff;
+}
+
+footer p
+{
+	color: #c2c2c2;
+}
